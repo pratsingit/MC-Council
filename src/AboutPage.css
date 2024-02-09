@@ -1,0 +1,74 @@
+body {
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .fake-header {
+    background-color: #111;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .fake-header h1 {
+    margin: 0;
+    color: #e74c3c;
+  }
+  
+  .about-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .about-header {
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #e74c3c;
+  }
+  
+  h2 {
+    color: #e74c3c;
+  }
+  
+  .team-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .team-list ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .team-list li {
+    font-size: 18px;
+    margin-bottom: 10px;
+    width: 30%; 
+    text-align: center;
+  }
+  
+  .team-list li:before {
+    content: "\2022";
+    color: #e74c3c;
+    font-size: 20px;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+  }
+  
+  .about-footer {
+    text-align: center;
+    padding-top: 500px;
+    border-top: 2px solid #e74c3c;
+  }
+  
+  .fake-footer {
+    background-color: #111;
+    padding: 10px;
+    text-align: center;
+  }

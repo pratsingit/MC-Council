@@ -1,0 +1,75 @@
+/* LoginForm.css */
+
+/* Container styling */
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  /* Image styling */
+  .login-image {
+    width: 300px; /* Adjust the width as needed */
+    height: auto;
+    padding: 15px;
+  }
+  
+  /* Form styling */
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Input styling */
+  .login-input {
+    padding: 10px;
+    margin: 10px 0;
+    width: 300px;
+    font-size: 16px;
+  }
+  
+  /* Button styling */
+  .login-button {
+    background-color: #ff0000;
+    color: white;
+    padding: 10px;
+    border: none;
+    width: 350px;
+    margin-top: 30px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .login-button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Error message styling */
+  .login-error {
+    color: red;
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
+  .nav-button {
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 18px;
+    position: relative;
+    transition: color 0.3s ease;
+    padding: 12px
+  }
+
+  /* Responsive design */
+  @media (max-width: 600px) {
+    .login-input, .login-button {
+      width: 80%;
+    }
+  }
+  

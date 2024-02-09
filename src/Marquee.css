@@ -1,0 +1,36 @@
+.marquee-container {
+    display: flex;
+    align-items: center;
+    overflow: hidden; 
+    margin-left: 20px;
+    height: 200px; 
+  }
+  
+  .marquee-images {
+    white-space: nowrap;
+    overflow: hidden;
+    animation: marqueeAnimation 20s linear infinite; 
+    margin-top: 50px; 
+  }
+
+  .marquee-images img {
+    margin-right: 150px; 
+    height: 80px; 
+  }
+  
+  .marquee-container p {
+    margin-right: 10px; 
+    color: #fff; 
+    font-size: 20px;
+    margin-top: -50px; 
+  }
+  
+  @keyframes marqueeAnimation {
+    0% {
+      transform: translateX(100%); 
+    }
+    100% {
+      transform: translateX(-100%); 
+    }
+  }
+  

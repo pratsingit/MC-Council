@@ -1,0 +1,35 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.content {
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(129, 123, 122, 0.95);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    animation: fadeIn 0.5s ease-out;
+}
+
+.button {
+    background-color: #ff0000;
+    margin-right: 40px;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Alumni Sans', sans-serif;
+    font-size: 18px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+}
