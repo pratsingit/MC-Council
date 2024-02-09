@@ -1,6 +1,6 @@
 ---
 
-# MC-Council 📚🖥💻
+# MC-Council 📚🖥🌟
 
 MC Council is a visually appealing and immersive web application that serves as an integrated learning hub for cybersecurity education. It utilizes React.js for the frontend and Firebase for the backend.
 
