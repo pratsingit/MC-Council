@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MC-Council/static/css/main.3d39b53a.css",
+    "main.js": "/MC-Council/static/js/main.57d0f322.js",
+    "static/js/453.90180fcf.chunk.js": "/MC-Council/static/js/453.90180fcf.chunk.js",
+    "static/media/video1.mp4": "/MC-Council/static/media/video1.d59044cbd90d666ae1fb.mp4",
+    "static/media/hey.mp4": "/MC-Council/static/media/hey.121fe4bd5d5f1c1b7b58.mp4",
+    "static/media/placeholder5.jpg": "/MC-Council/static/media/placeholder5.3af9b0014a6c7e3fd98f.jpg",
+    "static/media/placeholder6.jpg": "/MC-Council/static/media/placeholder6.c002791de0e34fde5e32.jpg",
+    "static/media/placeholder1.jpg": "/MC-Council/static/media/placeholder1.cf81610c1f649b847f6f.jpg",
+    "static/media/placeholder2.jpg": "/MC-Council/static/media/placeholder2.19dbb5ffbc8f3bad38e4.jpg",
+    "static/media/placeholder4.jpg": "/MC-Council/static/media/placeholder4.ed3423825b780b94beed.jpg",
+    "static/media/logo.png": "/MC-Council/static/media/logo.e30d4931c51abc900190.png",
+    "index.html": "/MC-Council/index.html",
+    "main.3d39b53a.css.map": "/MC-Council/static/css/main.3d39b53a.css.map",
+    "main.57d0f322.js.map": "/MC-Council/static/js/main.57d0f322.js.map",
+    "453.90180fcf.chunk.js.map": "/MC-Council/static/js/453.90180fcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d39b53a.css",
+    "static/js/main.57d0f322.js"
+  ]
+}
